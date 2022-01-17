@@ -3,6 +3,7 @@ import Row from "./Row"
 import { exportComponentAsPNG, exportComponentAsJPEG } from 'react-component-export-image'
 import { Button } from "@mui/material"
 import FileDownloadIcon from '@mui/icons-material/FileDownload';
+import '../Styles/drawingPanel.scss'
 
 function DrawingPanel(props) {
 
